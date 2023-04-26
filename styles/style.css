@@ -1,0 +1,68 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'EB Garamond', serif;
+
+}
+/* banner styles start here  */
+.banner-img {
+    background-image: url('../images/banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    object-position: left;
+    height: 100vh;
+    width: 100%;
+    border-radius: 8px;
+}
+/* banner styles end here  */
+
+/* slider styles start here  */
+.slider-img-1 {
+    background-image: url('../images/slider-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    border-radius: 8px;
+    
+
+
+}
+
+.slider-img-2 {
+    background-image: url('../images/slider-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    border-radius: 8px;
+}
+
+.slider-img-3 {
+    background-image: url('../images/slider-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    border-radius: 8px;
+}
+/* slider styles end here  */
+
+/* button styles here  */
+.btn-button-color {
+    background-color: #B68C5A;
+}
+
+/* text styles here  */
+.text-header-color {
+    color: #414040;
+}
+
+.text-color {
+    color: #707070;
+}
+
+.text-color-white {
+    color: #FFFFFF;
+}
